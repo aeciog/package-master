@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+The package package_name is used to: Projeto em Testes não finalizado!
 	- 
 	-
 
